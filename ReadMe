@@ -1,0 +1,11 @@
+this program main feature is zooming with right click hold down and drag image
+zooming is smooth
+
+next image = scroll up
+previous image = scroll down
+
+pressing delete button will not delete image ( i removed it )
+
+this is x32 bits version which can run on most of Windows Operating System
+
+no need to install , its portable
